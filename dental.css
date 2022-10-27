@@ -1,0 +1,421 @@
+::placeholder{
+	font-weight: bolder;
+	color: white;
+
+
+}
+body{
+	overflow-x: hidden;
+}
+
+
+.btn1{
+	background: deepskyblue;
+	color: white;
+	font-weight: bolder;
+	border: none;
+	padding: 7px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.btn1:hover{
+	background: none;
+	border: 2px solid deepskyblue;
+	color: deepskyblue;
+	 transition: 0.4s ease-in-out;
+}
+
+.back{
+	width: 100%;
+	height: 550px;   
+	
+	background-image: url('http://el.commonsupport.com/newwp/dento/wp-content/uploads/2019/12/v1-2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+}
+
+.back1{
+	 background: rgba(0, 0, 0, .7);
+	height: 550px;
+	
+	background-size: cover;
+
+}
+
+.btn2{
+	color: white;
+	background: deepskyblue;
+	padding: 9px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border: none;
+
+}
+
+.btn2:hover{
+	background: none;
+	border: 2px solid deepskyblue;
+	color: deepskyblue;
+	 transition: 0.4s ease-in-out;
+}
+
+.btn3{
+	background: none;
+	border: 2px solid deepskyblue;
+	color: deepskyblue;
+	padding: 7px;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+.section-heading .line {
+    width: 70px;
+    height: 4px;
+    background-color: #00aeef;
+}
+
+#react{
+	font-size: 60px;
+	color:  #00aeef;
+
+}
+#heart{
+	font-size: 60px;
+	color:  #00aeef;
+
+}
+
+#book{
+	font-size: 60px;
+	color:  #00aeef;
+
+}
+
+#contact{
+	font-size: 60px;
+	color:  #00aeef;
+
+}
+
+.service{
+	width: 100%;
+	height: auto;
+	background-image: url('https://media.themeslab.org/preview/html/dento/img/bg-img/3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+.service1{
+	
+	/*height: 500px;*/
+	background: rgba(0, 0, 0, .7);
+	
+	
+	background-size: cover;
+
+
+}
+
+#teeth{
+	
+	font-size: 40px;
+}
+
+#card{
+	
+	font-size: 40px;
+}
+
+.service2:hover{
+	color: #00aeef;
+}
+
+.appo{
+	width: 100%;
+	height: auto;
+	
+	background-image: url('http://el.commonsupport.com/newwp/dento/wp-content/uploads/2019/12/v1-2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+}
+
+.appo1{
+	 background: rgba(0, 0, 0, .7);
+	height: auto;
+	
+	background-size: cover;
+
+}
+
+.appo2{
+	background-color: rgba(0, 0, 0, 0.3);
+	border: none;
+}
+.appo2:hover{
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+/*#face{
+	color: white;
+	font-size: 30px;
+	background-color: ;
+	
+}*/
+
+#twitter{
+  color:white;
+  padding: 10px;
+  background-color:#808080;
+  border-radius: 50%;
+
+}
+#twitter:hover{
+  background-color:deepskyblue;
+  transition: 0.6s ease-in-out;
+  cursor: pointer;
+}
+
+#facebook{
+  color:white;
+  padding: 10px;
+  background-color:#808080;
+  border-radius: 50%;
+
+}
+#facebook:hover{
+  background-color:deepskyblue;
+  transition: 0.6s ease-in-out;
+  border-radius: 50%;
+   cursor: pointer;
+}
+
+#instagram{
+  color:white;
+  padding: 10px;
+  background-color:#808080;
+  border-radius: 50%;
+
+}
+#instagram:hover{
+  background-color:red;
+  transition: 0.6s ease-in-out;
+   cursor: pointer;
+}
+
+#linkedin{
+  color:white;
+  padding: 10px;
+  background-color:#808080;
+  border-radius: 50%;
+
+}
+#linkedin:hover{
+  background-color:deepskyblue;
+  transition: 0.6s ease-in-out;
+   cursor: pointer;
+}
+
+.sec{
+	width: 100%;
+	height: auto;
+	background-image: url('http://el.commonsupport.com/newwp/dento/wp-content/uploads/2019/11/v2-2-370x240.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.sec1{
+	 background: rgba(0, 0, 0, .7);
+	height: auto;
+	
+	background-size: cover;
+
+
+}
+
+.clock:hover{
+	color: #00aeef;
+	cursor: pointer;
+}
+#clock1{
+	color: #00aeef;
+}
+#comment{
+	color: #00aeef;
+}
+
+.foot{
+	width: 100%;
+	height: auto;
+	background-image: url('https://media.themeslab.org/preview/html/dento/img/bg-img/3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	/*background-attachment: fixed;*/
+}
+
+.foot1{
+	 background: rgba(0, 0, 0, .7);
+	height:auto;
+	
+	background-size: cover;
+
+
+}
+
+#location{
+	color:#00aeef ;
+}
+
+#messege{
+	color:#00aeef ;
+}
+
+.inp{
+	background: none;
+}
+
+/*about css start here*/
+
+.about{
+	width: 100%;
+	height:200px;
+	background-image: url('https://media.themeslab.org/preview/html/dento/img/bg-img/12.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+.about1{
+	 background: rgba(0, 0, 0, .7);
+	height: 200px;
+	
+	background-size: cover;
+
+
+}
+
+
+/*sevice css start here*/
+
+
+.img:hover{
+	background: #fff;
+	box-shadow: 0 2px 50px 0 rgb(0 0 0 / 15%);
+	padding: 14px;
+	border-radius: 50%;
+
+}
+
+.vegi{
+	display: none;
+}
+
+#faceb{
+	background-color: #808080;
+	padding: 7px;
+	border-radius: 50%;
+	color: white;
+	font-size: 10px;
+	
+}
+#faceb:hover{
+	background-color:deepskyblue;
+  transition: 0.6s ease-in-out;
+}
+#twit
+{
+	background-color:#808080;
+	padding: 7px;
+	border-radius: 50%;
+	color: white;
+	font-size: 10px;
+}
+
+#twit:hover{
+	background-color:deepskyblue;
+  transition: 0.6s ease-in-out;
+   cursor: pointer;
+}
+
+
+
+#inst{
+	background-color:#808080;
+	padding: 7px;
+	border-radius: 50%;
+	color: white;
+	font-size: 10px;
+}
+#inst:hover{
+	background-color:red;
+  transition: 0.6s ease-in-out;
+   cursor: pointer;
+}
+
+#lind{
+	background-color: #808080;
+	padding: 7px;
+	border-radius: 50%;
+	color: white;
+	font-size: 10px;
+}
+
+#lind:hover{
+	background-color:deepskyblue;
+  transition: 0.6s ease-in-out;
+   cursor: pointer;
+}
+
+@media(max-width: 900px)
+{
+	.hide{
+		display: none;
+	}
+}
+
+
+
+.dropbtn {
+  /*background-color: #04AA6D;*/
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  /*background-color: #f1f1f1;*/
+  min-width: 160px;
+  /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+  z-index: 1;
+}
+
+.dropdown-menu a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-menu a:hover
+ {background-color:#F5F5F5;}
+
+.dropdown:hover .dropdown-menu {display: block;}
+
+.dropdown:hover .dropbtn
+ {background-color: none;}
